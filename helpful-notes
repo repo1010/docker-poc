@@ -1,0 +1,6 @@
+*If execute exit from running container which is running in intractive mode, cursor goes out of conatiner nad container stops.
+*removing image forcly can work for stop container not for running container.
+* docker history is only for imagename/imageid
+* custom created image plced locally, we need to provide imageid while running or ceating container from that image
+* docker node -- only works on manager
+*on leaving swarm any node goes into down state but can be avalablity can be active or drain
